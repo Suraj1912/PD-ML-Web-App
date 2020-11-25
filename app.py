@@ -28,7 +28,7 @@ def main():
     """
 
     st.markdown(html_temp, unsafe_allow_html=True)
-    st.markdown("""<br><span>Made by </span><span style='color: #FF0000;'>Suraj Patil</span>""", unsafe_allow_html=True)
+    #st.markdown("""<br><span>Made by </span><span style='color: #FF0000;'>Suraj Patil</span>""", unsafe_allow_html=True)
 
     # dataset = st.file_uploader('Upload Dataset', type= 'csv')
     # if dataset is not None:
